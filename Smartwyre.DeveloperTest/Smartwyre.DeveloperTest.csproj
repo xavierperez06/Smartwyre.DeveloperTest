@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Smartwyre.DeveloperTest.Core\Smartwyre.DeveloperTest.Core.csproj" />
+    <ProjectReference Include="..\Smartwyre.DeveloperTest.DAL\Smartwyre.DeveloperTest.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
